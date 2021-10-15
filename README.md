@@ -3,7 +3,7 @@
 	<h4 align="center"> Connecting RaspberryPi device to Android OS using Decentralized Cloud Method <h4>
 </p>
 ---
-<br>
+
 ## Tech Stack Used And Description
 
 * Tech Stack:
