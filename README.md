@@ -2,8 +2,9 @@
 	<h2 align="center"> CLOUD COMPUTING - CSE3035 PROJECT </h2>
 	<h4 align="center"> Connecting RaspberryPi device to Android OS using Decentralized Cloud Method <h4>
 </p>
- 
+<br>
 ---
+<br>
 ## Tech Stack Used And Description
 
 * Tech Stack:
