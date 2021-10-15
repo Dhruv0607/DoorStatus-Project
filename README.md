@@ -33,10 +33,6 @@
 	- Press check status button to get DOOR STATUS.
 	
 <br>
-
-## Circuit Diagram and Android App UI
-
-	
 <br>
 
 ## Contributors
