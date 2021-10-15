@@ -3,6 +3,21 @@
 	<h4 align="center"> A Demo of Decentralised architecture using raspberry pi <h4>
 </p>
  
+---
+## Tech Stack Used And Description
+
+* Tech Stack:
+	- Raspberry Pi with RASPBIAN OS.
+	- HC-SR04 Ultrasonic Sensor.
+	- The app has been developed using Flutter in Dart programming language.
+	- VNC server to access Raspberry Pi device and Flask server to send data via local network.
+
+* Description:
+	- This app has been created from scratch (NO PREVIOUS WORK WAS DONE ON THIS PROJECT) and gives users a multiplayer platform to play and enjoy together.
+	- This app promotes/helps friends to connect and have fun during COVID and further.
+	- The game is Two truths One lie.
+	- In the game the creator/host of the game provides 2 truths and 1 lie about them.
+	- The other players have to guess the lie and upon guessing correctly they recieve points.
 <br>
 
 ## Contributors
